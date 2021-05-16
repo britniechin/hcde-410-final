@@ -1,0 +1,36 @@
+Motivation and Problem Statement: 
+I want to use this data set of 11K shopping websites and Princeton Web Census crawl about Dark Patterns at Scale. I've always been interested in dark patterns and how websites use them, but more recently how algorithms are playing a part in this. I think between this class and SOC 225 for my data science minor, I've been looking more into dark patterns and how they trick users to click but more recently how algorithms are enhancing dark patterns. I think it's interesting how many different types of dark patterns they are, but also how often they show up and how users call for them. Not only that but it's interesting to understand how they deceive users and it can make unintended and potentially harmful decisions. I think I want to learn more about the different types, and the frequency of appearance. I feel like they appear a lot, and maybe we're use to them and don't notice/unaware. This data set can be interesting to understand dark patterns deeply, and the transparency on the web. 
+
+Data Selected For Analysis:
+I plan to use dark patterns data set from Princeton, they collected it from 11K shopping websites and Princeton Web Census Crawls. This website goes into depth of the CSV file of the data and the categories they filter it by different dark patterns. https://webtransparency.cs.princeton.edu/dark-patterns/. The data set provides the pop comment either from a person or about the product, categories patterns, pattern type, deceptive, and the website page. It's pretty detailed. 
+
+Unknown and Dependencies: 
+Not sure if this data set will work or if it has the right information for the project
+
+Data Sets:
+https://webtransparency.cs.princeton.edu/dark-patterns/
+https://figshare.com/s/048c984854a59429d0f0?file=17765147
+
+Research Questions 
+What makes dark patterns deceptive, and what's the severity level of dark patterns?
+
+Hypothesis:
+Already looking at the data theres more non-deceptive dark patterns than deceptive, it seems like from the data the dark patterns that they noted aren't inherently dark. 
+
+Goal: Understand the difference and misleading dark patterns, that aren't inherently dark. 
+
+Background/Related Work:
+Dark Patterns at Scale Article - Third parties play a factor in deceptiveness. This study helps awareness of dark patterns, and could potentially help flag them down. A lot of the dark patterns on selling websites influence the behavior of users for profit. This article explored and studied the dark patterns on the web, and defined characteristics. 
+
+After reading that article its laid out some characteristics, but left me wondering the difference between dark patterns that trick versus inherently dark. But also curious to find other data sets about dark patterns outside of online shopping. It seems like there is a gray area in establishing the degree of dark patterns, and also the degree of manipulation. 
+
+https://figshare.com/s/048c984854a59429d0f0?file=17765147. There's also this data set too that's publicaly available. Where it shows dark patterns and where to find them. Examining mobile applications and user perception. 
+
+https://arxiv.org/pdf/2009.10194.pdf: This article also explores the legal and ethical perspectives of dark patterns. Where they performed an interaction criticism reading of different types of consent banners. The article goes into depth about the design, integrate, user, and social senses to raise tension of designing consent banners. 
+
+Methodology: 
+In terms of analytical methods I intend to either explore a t-test or a recurrent neural network of users mental model when interacting with dark patterns. 
+
+I'm not quite sure how I want to represent in terms of visual but I think a bar chart or a graph would be good to represent. In terms of showing relationships between dark patterns, but also establishing dark patterns and the degree/severity of them would be interesting. I think I want to use a couple data sets and compare the results, and do a cross analysis and maybe use Kaggle to help me. I'm hoping the data will give me more of an idea and understand the servrity of different types of dark patterns. 
+
+I think the best thing to do for my analysis is to compare the different types of dark patterns and the actual examples within them to rank out and thin out the severity of each one. I think some of the dark patterns aren't actually deceptive and more manipulative, and that would answer my question. I think it would be interesting to have a chart to compare and map out the rankings of severity to compare and see if the actual results are dark patterns/negative implications/risk. 
